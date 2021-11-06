@@ -115,3 +115,7 @@ dmypy.json
 
 #destination folder of images
 /resized
+
+#jpgs-pngs
+*.jpg
+*.png
