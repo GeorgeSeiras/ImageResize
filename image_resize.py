@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from PIL import Image,ImageOps
-import os, sys
+import os
 
 path = os.getcwd()+"\\"
 dirs = os.listdir( path )
